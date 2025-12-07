@@ -1,0 +1,5 @@
+{
+  "name": "AI Media Toolkit",
+  "description": "An intelligent toolkit to upscale images, generate text descriptions, enhance text-to-image prompts, and create camera motion prompts using AI.",
+  "requestFramePermissions": []
+}
